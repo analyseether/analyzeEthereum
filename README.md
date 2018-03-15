@@ -18,4 +18,22 @@ $ geth export geth.dump
 
 5. Run the script and start downloading human readable chain as csv
 
+# Table schemas for reference
 
+## mainnet.blocks
+<img src="https://github.com/analyseether/analyzeEthereum/raw/master/schemas/schema_blocks.png">
+
+## mainnet.uncles
+<img src="https://github.com/analyseether/analyzeEthereum/raw/master/schemas/schema_uncles.png">
+
+## mainnet.transactions
+<img src="https://github.com/analyseether/analyzeEthereum/raw/master/schemas/schema_transactions.png">
+
+## mainnet.receipts
+<img src="https://github.com/analyseether/analyzeEthereum/raw/master/schemas/schema_receipts.png">
+
+## staging.logs
+<img src="https://github.com/analyseether/analyzeEthereum/raw/master/schemas/schema_logs.png">
+
+## staging.traces
+<img src="https://github.com/analyseether/analyzeEthereum/raw/master/schemas/schema_tracess.png">
