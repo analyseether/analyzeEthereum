@@ -36,4 +36,4 @@ $ geth export geth.dump
 <img src="https://github.com/analyseether/analyzeEthereum/raw/master/schemas/schema_logs.png">
 
 ## staging.traces
-<img src="https://github.com/analyseether/analyzeEthereum/raw/master/schemas/schema_tracess.png">
+<img src="https://github.com/analyseether/analyzeEthereum/raw/master/schemas/schema_traces.png">
